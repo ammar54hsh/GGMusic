@@ -77,12 +77,12 @@ async def start_(client: Client, message: Message):
                         "‹ قناة المطور ›", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "‹ قناة البوت ›", url=f"https://t.me/xxxexxex"
+                        "‹ قناة البوت ›", url=f"https://t.me/F0FBB"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ 𝖣𝖾𝗏Cold 𝖳𝖾𝖠𝗆 .", url="https://t.me/xxxexxex"
+                        "‹ 𝖣𝖾𝗏Cold 𝖳𝖾𝖠𝗆 .", url="https://t.me/F0FBB"
                     )
                 ],
             ]
@@ -102,7 +102,7 @@ async def alive(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("‹ قناة السوࢪس ›", url=f"https://t.me/xxxexxex"),
+                InlineKeyboardButton("‹ قناة السوࢪس ›", url=f"https://t.me/F0FBB"),
                 InlineKeyboardButton(
                     "‹ مطور السوࢪس ›", url=f"https:/https://t.me/SX3i3"
                 ),
@@ -129,7 +129,7 @@ async def src(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("‹ قناة السوࢪس ›", url=f"https://t.me/xxxexxex"),
+                InlineKeyboardButton("‹ قناة السوࢪس ›", url=f"https://t.me/F0FBB"),
                 InlineKeyboardButton(
                     "‹ مطور السورس ›", url=f"https://t.me/SX3i3"
                 ),
