@@ -82,7 +82,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ 𝖣𝖾𝗏𝖤𝗏𝖺𝗇 𝖳𝖾𝖠𝗆 .", url="https://t.me/vrrrrvr"
+                        "‹ 𝖣𝖾𝗏Cold 𝖳𝖾𝖠𝗆 .", url="https://t.me/xxxexxex"
                     )
                 ],
             ]
@@ -102,7 +102,7 @@ async def alive(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("‹ قناة السوࢪس ›", url=f"https:/https://t.me/xxxexxex"),
+                InlineKeyboardButton("‹ قناة السوࢪس ›", url=f"https://t.me/xxxexxex"),
                 InlineKeyboardButton(
                     "‹ مطور السوࢪس ›", url=f"https:/https://t.me/SX3i3"
                 ),
