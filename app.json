@@ -1,7 +1,7 @@
 {
-    "name": "سورس علوش ميوزك",
+    "name": "سورس ڪولد ميوزك",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/cbefab50d720cd7cb5ca8.jpg",
+    "logo": "https://telegra.ph/file/d0c84ca80ab3f103f65dd.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
@@ -13,44 +13,44 @@
     "success_url": "https://t.me/kafren1",
     "env": {
         "API_ID": {
-            "description": "your API_ID from my.telegram.org",
+            "description": "your ايبي ايدي from my.telegram.org",
             "required": true
         },
         "API_HASH": {
-            "description": "your API_HASH from my.telegram.org",
+            "description": "your ايبي هاش from my.telegram.org",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "your bot token from @BotFather",
+            "description": "your توكن البوت from @BotFather",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "your bot username from @BotFather",
+            "description": "your معرف البوت from @BotFather",
             "required": true
         },
         "BOT_NAME": {
-            "description": "fill with your bot name from @BotFather",
+            "description": "fill with your اسم البوت from @BotFather",
             "required": true
         },
         "ASSISTANT_NAME": {
-            "description": "fill with the assistant username account without @",
+            "description": "fill with the معرف المساعد account without @",
             "required": true
         },
         "SESSION_NAME": {
-            "description": "fill with the pyrogram String Session",
+            "description": "fill with the pyrogram String سيشن",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "list of user ids to be added to sudo member list, or just fill with your id",
+            "description": "list of ايدي ids to be added to sudo member list, or just fill with your id",
             "required": true
         },
         "GROUP_SUPPORT": {
-            "description": "if you have group, then fill the group username here without @",
+            "description": "if you have كروب او قناة, then fill the group username here without @",
             "required": true,
             "value": "eithonsupport"
         },
         "UPDATES_CHANNEL": {
-            "description": "if you have channel, then fill the channel username here without @",
+            "description": "if you have channel, then fill the channel معرف قناتك here without @",
             "required": true,
             "value": "EITHON1"
         },
