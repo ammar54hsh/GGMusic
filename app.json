@@ -12,49 +12,49 @@
     "repository": "https://github.com/alfaransy/Sources",
     "success_url": "https://t.me/kafren1",
     "env": {
-        "API_ID": {
+        "ايبي ايدي": {
             "description": "your ايبي ايدي from my.telegram.org",
             "required": true
         },
-        "API_HASH": {
+        "ايبي هاش": {
             "description": "your ايبي هاش from my.telegram.org",
             "required": true
         },
-        "BOT_TOKEN": {
+        "توكن لبوت": {
             "description": "your توكن البوت from @BotFather",
             "required": true
         },
-        "BOT_USERNAME": {
+        "معرف البوت": {
             "description": "your معرف البوت from @BotFather",
             "required": true
         },
-        "BOT_NAME": {
+        "اسم لبوت": {
             "description": "fill with your اسم البوت from @BotFather",
             "required": true
         },
-        "ASSISTANT_NAME": {
+        "معرف لمساعد": {
             "description": "fill with the معرف المساعد account without @",
             "required": true
         },
-        "SESSION_NAME": {
+        "سيشن": {
             "description": "fill with the pyrogram String سيشن",
             "required": true
         },
-        "SUDO_USERS": {
+        "ايدي المطور": {
             "description": "list of ايدي ids to be added to sudo member list, or just fill with your id",
             "required": true
         },
-        "GROUP_SUPPORT": {
+        "كروب الدعم": {
             "description": "if you have كروب او قناة, then fill the group username here without @",
             "required": true,
             "value": "eithonsupport"
         },
-        "UPDATES_CHANNEL": {
+        "قناة البوت": {
             "description": "if you have channel, then fill the channel معرف قناتك here without @",
             "required": true,
-            "value": "EITHON1"
+            "value": "F0FBB"
         },
-        "OWNER_NAME": {
+        "معرف المطور": {
             "description": "fill with your telegram account username without @",
             "required": true,
             "value": ""
