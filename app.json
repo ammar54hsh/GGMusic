@@ -1,5 +1,4 @@
-{
-    "name": "سورس ڪولد ميوزك",
+  "name": "سورس ڪولد ميوزك",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/d0c84ca80ab3f103f65dd.jpg",
     "keywords": [
@@ -12,39 +11,39 @@
     "repository": "https://github.com/alfaransy/Sources",
     "success_url": "https://t.me/kafren1",
     "env": {
-        "ايبي ايدي": {
+        "API_ID": {
             "description": "your ايبي ايدي from my.telegram.org",
             "required": true
         },
-        "ايبي هاش": {
+        "API_HASH": {
             "description": "your ايبي هاش from my.telegram.org",
             "required": true
         },
-        "توكن لبوت": {
+        "BOT_TOKEN": {
             "description": "your توكن البوت from @BotFather",
             "required": true
         },
-        "معرف البوت": {
+        "BOT_USERNAME": {
             "description": "your معرف البوت from @BotFather",
             "required": true
         },
-        "اسم لبوت": {
+        "BOT_NAME": {
             "description": "fill with your اسم البوت from @BotFather",
             "required": true
         },
-        "معرف لمساعد": {
+        "ASSISTANT_NAME": {
             "description": "fill with the معرف المساعد account without @",
             "required": true
         },
-        "سيشن": {
+        "SESSION_NAME": {
             "description": "fill with the pyrogram String سيشن",
             "required": true
         },
-        "ايدي المطور": {
+        "SUDO_USERS": {
             "description": "list of ايدي ids to be added to sudo member list, or just fill with your id",
             "required": true
         },
-        "كروب الدعم": {
+        "GROUP_S": {
             "description": "if you have كروب او قناة, then fill the group username here without @",
             "required": true,
             "value": "eithonsupport"
