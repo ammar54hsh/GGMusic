@@ -1,4 +1,4 @@
-  "name": "سورس ڪولد ميوزك",
+ "name": "سورس ڪولد ميوزك",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/d0c84ca80ab3f103f65dd.jpg",
     "keywords": [
@@ -43,17 +43,17 @@
             "description": "list of ايدي ids to be added to sudo member list, or just fill with your id",
             "required": true
         },
-        "GROUP_S": {
+        "GROUP_SUPPORT": {
             "description": "if you have كروب او قناة, then fill the group username here without @",
             "required": true,
             "value": "eithonsupport"
         },
-        "قناة البوت": {
+        "UPDATES_CHANNEI": {
             "description": "if you have channel, then fill the channel معرف قناتك here without @",
             "required": true,
             "value": "F0FBB"
         },
-        "معرف المطور": {
+        "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
             "value": ""
