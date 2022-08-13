@@ -1,7 +1,7 @@
 {
     "name": "سورس ميوزك",
-    "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/329693862dab673a386be.jpg",
+    "description": "ميوزك فولتر لتنصيب بوتات الميوزك لشتغيل الموسيقى في المكالمات الصوتيه الجماعيه",
+    "logo": "https://telegra.ph/file/b3582257ed6036ca095fa.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
