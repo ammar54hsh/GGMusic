@@ -104,7 +104,7 @@ async def alive(client: Client, message: Message):
             [
                 InlineKeyboardButton("‹ قناة السوࢪس ›", url=f"https://t.me/D_JDDD"),
                 InlineKeyboardButton(
-                    "‹ مطور السوࢪس ›", url=f"https:/https://t.me/F_3FFF"
+                    "‹ مطور السوࢪس ›", url=f"https:/"https://t.me/vrrrvrr"
                 ),
             ]
         ]
@@ -131,13 +131,13 @@ async def src(client: Client, message: Message):
             [
                 InlineKeyboardButton("‹ قناة السوࢪس ›", url=f"https://t.me/D_JDDD"),
                 InlineKeyboardButton(
-                    "‹ مطور السورس ›", url=f"https://t.me/F_3FFF"
+                    "‹ مطور السورس ›", url=f"https://t.me/vrrrvrr"
                 ),
             ]
         ]
     )
 
-    alive = f"**هلا {message.from_user.mention()}, i'm {BOT_NAME}**\n\n᥀: اهلا بك في سوࢪس امبيسي\n᥀︙اختصاص البوت تشغيل الموسيقى و الفيديو في الدردشة الصوتية \n\n**᥀︙تابع تحديثاتي : @SC33X** ᥀"
+    alive = f"**هلا {message.from_user.mention()}, i'm {BOT_NAME}**\n\n᥀ اهلا بك في سوࢪس فولتر\n᥀︙اختصاص البوت تشغيل الموسيقى و الفيديو في الدردشة الصوتية \n\n**᥀︙تابع تحديثاتي : @D_JDDD** ᥀"
 
     await message.reply_photo(
         photo=f"{ALIVE_IMG}",
