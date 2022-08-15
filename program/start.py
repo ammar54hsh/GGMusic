@@ -82,7 +82,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ 𝖣𝖾𝗏Cold 𝖳𝖾𝖠𝗆 .", url="https://t.me/F0FBB"
+                        "‹ 𝖣𝖾𝗏volter 𝖳𝖾𝖠𝗆 .", url="https://t.me/TI9TI9"
                     )
                 ],
             ]
@@ -104,7 +104,7 @@ async def alive(client: Client, message: Message):
             [
                 InlineKeyboardButton("‹ قناة السوࢪس ›", url=f"https://t.me/D_JDDD"),
                 InlineKeyboardButton(
-                    "‹ مطور السوࢪس ›", url=f"https:/"https://t.me/vrrrvrr"
+                    "‹ مطوࢪ السوࢪس ›", url=f"https://t.me/vrrrvrr"
                 ),
             ]
         ]
@@ -119,7 +119,7 @@ async def alive(client: Client, message: Message):
     )
 
 @Client.on_message(
-    command(["السورس", f"SUORCE@{BOT_USERNAME}"]) & filters.group & ~filters.edited
+    command(["السوࢪس", f"SUORCE@{BOT_USERNAME}"]) & filters.group & ~filters.edited
 )
 async def src(client: Client, message: Message):
     current_time = datetime.utcnow()
@@ -131,13 +131,13 @@ async def src(client: Client, message: Message):
             [
                 InlineKeyboardButton("‹ قناة السوࢪس ›", url=f"https://t.me/D_JDDD"),
                 InlineKeyboardButton(
-                    "‹ مطور السورس ›", url=f"https://t.me/vrrrvrr"
+                    "‹ مطوࢪ السوࢪس ›", url=f"https://t.me/vrrrvrr"
                 ),
             ]
         ]
     )
 
-    alive = f"**هلا {message.from_user.mention()}, i'm {BOT_NAME}**\n\n᥀ اهلا بك في سوࢪس فولتر\n᥀︙اختصاص البوت تشغيل الموسيقى و الفيديو في الدردشة الصوتية \n\n**᥀︙تابع تحديثاتي : @D_JDDD** ᥀"
+    alive = f"**هلا {message.from_user.mention()}, i'm {BOT_NAME}**\n\n᥀ اهلا بك في سوࢪس فولتࢪ\n᥀︙اختصاص البوت تشغيل الموسيقى و الفيديو في الدردشة الصوتية \n\n**᥀︙تابع تحديثاتي : @D_JDDD** ᥀"
 
     await message.reply_photo(
         photo=f"{ALIVE_IMG}",
